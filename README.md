@@ -1,25 +1,12 @@
-[![Starware](https://img.shields.io/badge/Starware-⭐-black?labelColor=f9b00d)](https://github.com/zepfietje/starware)
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-<br />
 <p align="center">
-  <a href="https://github.com/TCP-Tech/CodeUtsava6.0">
+  <a href="https://github.com/adscaksu/ThrillX-1.0">
     <img src="/src/assets/images/codeutsavaTitle.svg" alt="Logo" width="400">
   </a>
 
-  <h3 align="center">CodeUtsava 6.0</h3>
+  <h3 align="center">THRILLX 1.0</h3>
 
   <p align="center">
-    The Official Repository for the website of CodeUtsava 6.0
+    The Official Repository for the website of ThrillX 1.0
     <br />
     <br />
     <a href="https://codeutsava7.netlify.app/">View Live</a>
