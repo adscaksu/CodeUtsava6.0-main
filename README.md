@@ -9,11 +9,11 @@
     The Official Repository for the website of ThrillX 1.0
     <br />
     <br />
-    <a href="https://codeutsava7.netlify.app/">View Live</a>
+    <a href="https://thrillx1.netlify.app/">View Live</a>
     ·
-    <a href="https://github.com/TCP-Tech/CodeUtsava6.0/issues">Report Bugs</a>
+    <a href="https://github.com/adscaksu/ThrillX-1.0/issues">Report Bugs</a>
     .
-    <a href="https://github.com/TCP-Tech/CodeUtsava6.0/issues">Add Features</a>
+    <a href="https://github.com/adscaksu/ThrillX-1.0/issues">Add Features</a>
   </p>
 </p>
 
@@ -36,14 +36,14 @@
       </ul>
     </li>
     <li><a href="#license">License</a></li>
-    <li><a href="#Turing Club Of Programmers">Turing Club Of Programmers</a></li>
+    <li><a href="#AKS Developer Student Club">AKS Developer Student Club</a></li>
     <li><a href="#starware">Starware</a></li>
   </ol>
 </details>
 
 ## About The Project
 
-CodeUtsava is an event being organized by Turing Club of Programmers, the Official Coding Club of NIT Raipur. It aims to foster and nurture invigorating coding culture among the students of the Institute through its Mentorship programme, workshops, and along with several other events including the annual event CodeUtsava. Students from all over India can take part in this event, attend Workshops, participate in the Hackathon, and various other coding related activities which are organized under this event.
+ThrillX 1.0 is an event being organized by AKS Developer Student Club, the Official Coding Club of AKS University. It aims to foster and nurture invigorating coding culture among the students of the Institute through its Mentorship programme, workshops, and along with several other events including the annual event ThrillX 1.0. Students from all over India can take part in this event, attend Workshops, participate in the Hackathon, and various other coding related activities which are organized under this event.
 
 ## Built With
 
@@ -102,7 +102,7 @@ To setup the project locally the steps below.
 
 ```
 
-Our Discord Community: [Discord Invite](https://discord.gg/mq8PprVHUv) <br>
+Our Discord Community: [Discord Invite](https://discord.gg/r6uYRkES) <br>
 
 ### Local Repository Setup 🎃
 
@@ -116,7 +116,7 @@ Please refer to the project's style and contribution guidelines for submitting p
 
 <!-- NOTE 1: Please abide by the [Contributing Guidelines](https://github.com/dscnitrourkela/project-guava-web/blob/master/CONTRIBUTING.md). -->
 
-NOTE : Please abide by the [Code of Conduct](https://github.com/TCP-Tech/CodeUtsava6.0/CODE_OF_CONDUCT.md).
+NOTE : Please abide by the [Code of Conduct](https://github.com/adscaksu/ThrillX-1.0/blob/main/CODE_OF_CONDUCT.md).
 
 ### Running the project.
 
@@ -151,13 +151,13 @@ yarn add -D package_name
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Turing Club Of Programmers
+## AKS Developer Student Club
 
 ![Turing Club Of Programmers][tcp]
 
 ## Starware
 
-TCP-Tech/CodeUtsava6.0 is Starware.
+ADSC/ThrillX 1.0 is Starware.
 This means you're free to use the project, as long as you star its GitHub repository.
 Your appreciation makes us grow and glow up. ⭐
 
@@ -173,4 +173,4 @@ Your appreciation makes us grow and glow up. ⭐
 [license-shield]: https://img.shields.io/github/license/TCP-Tech/CodeUtsava6.0?style=for-the-badge
 [license-url]: https://github.com/TCP-Tech/CodeUtsava6.0/LICENSE
 [product-screenshot]: images/Compose.png
-[tcp]: src/assets/images/tcpName.svg
+[tcp]: src/assets/images/cover.jpeg
