@@ -43,7 +43,7 @@ const Section1 = () => {
           <div className="codeutsava__section1-para">
             AKS University's{" "}
             <span style={{ fontWeight: "600" }}>First Coding Event.</span> Join
-            Us on 23rd September.
+            Us on 28th September.
           </div>
         </div>
         <div
@@ -59,7 +59,7 @@ const Section1 = () => {
           <div className="codeutsava__section1-discord">
             <a
               className="codeutsava__section1-discord-link"
-              href="https://discord.gg/r6uYRkES"
+              href="https://discord.gg/qYy63dZMkt"
               target="_blank"
             >
               <img src={discord} />
