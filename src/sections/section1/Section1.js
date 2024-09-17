@@ -9,16 +9,16 @@ import "../../../node_modules/font-awesome/css/font-awesome.min.css";
 import register from "../../assets/images/register.pdf";
 
 const Section1 = () => {
-  React.useEffect(() => {
-    const script = document.createElement("script");
-    script.src = "https://apply.devfolio.co/v2/sdk.js";
-    script.async = true;
-    script.defer = true;
-    document.body.appendChild(script);
-    return () => {
-      document.body.removeChild(script);
-    };
-  }, []);
+  // React.useEffect(() => {
+  //   const script = document.createElement("script");
+  //   script.src = "https://apply.devfolio.co/v2/sdk.js";
+  //   script.async = true;
+  //   script.defer = true;
+  //   document.body.appendChild(script);
+  //   return () => {
+  //     document.body.removeChild(script);
+  //   };
+  // }, []);
   return (
     <motion.div
       initial="hidden"
@@ -50,12 +50,12 @@ const Section1 = () => {
           className="codeutsava__section1-button-container"
           style={{ display: "flex", placeContent: "center" }}
         >
-          <div
+          {/* <div
             className="apply-button"
             data-hackathon-slug="codeutsava-3"
             data-button-theme="dark-inverted"
             style={{ height: "44px", width: "312px" }}
-          ></div>
+          ></div> */}
           <div className="codeutsava__section1-discord">
             <a
               className="codeutsava__section1-discord-link"
