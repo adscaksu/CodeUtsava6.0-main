@@ -65,16 +65,15 @@ const Section1 = () => {
               <img src={discord} />
             </a>
           </div>
-          <div className="codeutsava__section1-register">
+          <button className="codeutsava__section1-register">
             <a
               className="codeutsava__section1-register-link"
-              href="https://guide.devfolio.co/hackers/faqs"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSd5kb0jYOzwV9Iq-r5LnhSDMF5LVYaRnrWLkniltgZwF2i39Q/viewform"
               target = "_blank"
-              download="Resgistration Instructions"
             >
-              Steps To Register On Devfolio
+              REGISTER NOW
             </a>
-          </div>
+          </button>
         </div>
       </motion.div>
       <motion.ul
