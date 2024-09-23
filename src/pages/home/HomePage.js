@@ -36,7 +36,7 @@ export default class HomePage extends Component {
           {/* <Section12 /> */}
           {/* <Section13 /> */}
           <Section8 />
-          {/* <Section6 /> */}
+          <Section6 />
           <Section7 />
           <Section9 />
           {/* <Section10 /> */}

@@ -1,6 +1,7 @@
 import speaker1 from '../images/speaker1.jpg'
 import speaker2 from '../images/speaker4.jpeg'
 import speaker3 from '../images/speaker2.jpeg'
+import speaker4 from '../images/speaker5.png'
 
 const speakers = [
   {
@@ -16,8 +17,8 @@ const speakers = [
   },
   {
     name: "Prasnna Shukla",
-    position: "HR Mananger - YourLab.in",
-    description: "Human Resource Manager - YourLab.in | Ex Sales Associate @ Tata Motors",
+    position: "Co-Founder & CEO - YourLab.in",
+    description: "Core Founder Team & Cheif Executive Officer - YourLab.in | Ex Sales Associate @ Tata Motors",
     img: speaker2,
     facebook: "",
     twitter: "",
@@ -29,7 +30,7 @@ const speakers = [
     name: "Rishant Gautam",
     position: "System Engineer - TCS",
     description: "AKSU Alumni - Class of 2024 | Cracked TCS Offer of 7LPA",
-    img: speaker3,
+    img: speaker4,
     facebook: "",
     twitter: "",
     linkedin: "https://www.linkedin.com/in/rishant-gautam-421666232/",

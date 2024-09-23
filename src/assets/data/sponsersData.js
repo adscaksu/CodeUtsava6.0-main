@@ -13,17 +13,18 @@ import sponser12 from "../images/sponsers/sponser12.png";
 import sponser13 from "../images/sponsers/sponser13.png";
 import sponser14 from "../images/sponsers/sponser14.png";
 import sponser15 from "../images/sponsers/sponser15.png";
+import sponser16 from "../images/sponsers/sponser16.png";
 
 const platinum = [
   {
-    img: sponser1,
+    img: sponser16,
   },
-  {
-    img: sponser2,
-  },
-  {
-    img: sponser13,
-  }
+  // {
+  //   img: sponser2,
+  // },
+  // {
+  //   img: sponser13,
+  // }
 ];
 
 const gold = [

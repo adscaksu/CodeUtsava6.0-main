@@ -17,12 +17,12 @@ const Section6 = () => {
       <div className="codeutsava__section6-body">
         <div className="codeutsava__section6-title">Sponsors</div>
         <div className="codeutsava__section6-content">
-          On behalf of team TCP, we would like to publicly thank the generous
+          On behalf of team ADSC, we would like to publicly thank the generous
           sponsors without whom this event could not be held so smoothly.
         </div>
         <div className="codeutsava__section6-sponsers">
           <div className="codeutsava__section6-sponser-title">
-            Platinum Sponsors
+            Platinum Sponsor
           </div>
           <div className="codeutsava__section6-sponser-list platinum">
             {sponsers.platinum.map((sponser, index) => (
@@ -31,7 +31,7 @@ const Section6 = () => {
               </div>
             ))}
           </div>
-          <div className="codeutsava__section6-sponser-title">
+          {/* <div className="codeutsava__section6-sponser-title">
             Gold Sponsors
           </div>
           <div className="codeutsava__section6-sponser-list gold">
@@ -48,7 +48,7 @@ const Section6 = () => {
                 <img key={index} src={sponser.img} />
               </div>
             ))}
-          </div>
+          </div> */}
           {/* <div className="codeutsava__section6-sponser-title">
             Bronze Sponsors
           </div>
