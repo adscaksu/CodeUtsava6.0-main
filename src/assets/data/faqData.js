@@ -3,17 +3,17 @@ const faqs = [
   {
     question: "How do I register for the hackathon?",
     answer:
-      "Click on any Register Now button on the website. Alternatively, you can head over to Devfolio.",
+      "Click on any Register Now button on the website. Alternatively, you can head over to Google Form directly.",
   },
   {
     question: "What is the participation fee?",
     answer:
-      "Rs 150, Rs 200, Rs 250 for one, two and three members team respectively",
+      "No participation fee is required. ThrillX 1.0 is a free event.",
   },
   {
     question: "What if I don't have a team or idea?",
     answer:
-      "We'll have team formation and ideation events geared towards helping you find a team. Make sure you join the discord server.",
+      "No worries! You can participate as an individual, and we will help you an idea.",
   },
   {
     question: "Who can participate?",

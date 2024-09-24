@@ -31,9 +31,7 @@ const Section6 = () => {
               </div>
             ))}
           </div>
-          {/* <div className="codeutsava__section6-sponser-title">
-            Gold Sponsors
-          </div>
+          <div className="codeutsava__section6-sponser-title">Gold Sponsor</div>
           <div className="codeutsava__section6-sponser-list gold">
             {sponsers.gold.map((sponser, index) => (
               <div className="codeutsava__section6-sponser-image">
@@ -41,6 +39,7 @@ const Section6 = () => {
               </div>
             ))}
           </div>
+          {/*
           <div className="codeutsava__section6-sponser-title">Sponsors</div>
           <div className="codeutsava__section6-sponser-list bronze">
             {sponsers.silver.map((sponser, index) => (

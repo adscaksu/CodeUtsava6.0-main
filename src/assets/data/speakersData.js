@@ -1,9 +1,21 @@
+import speaker0 from '../images/speaker0.png'
 import speaker1 from '../images/speaker1.jpg'
 import speaker2 from '../images/speaker4.jpeg'
 import speaker3 from '../images/speaker2.jpeg'
 import speaker4 from '../images/speaker5.png'
 
 const speakers = [
+  {
+    name: "Chandra Shekhar Shukla",
+    position: "CTO - Rostris Verse Pvt. Ltd.",
+    description: "Chief Technical Officer - Rostris Verse Private Limited Pune | EX- Red hat Training partner India | Linux Admin | EMC2 Admin | Net back engineer | VMware Admin | Ex Consultant - IBM & Sun Micro System Bengaluru",
+    img: speaker0,
+    facebook: "",
+    twitter: "",
+    linkedin: "https://www.linkedin.com/in/chandra-shekhar-shukla-82b9562a0/",
+    github: "",
+    youtube: "",
+  },
   {
     name: "Piyush Shukla",
     position: "Security Researcher",

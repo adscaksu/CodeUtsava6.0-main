@@ -2,7 +2,7 @@ const Prizes = [
     {
         title : "Winner Team",
         cashPrize : [
-            'Cash Prize of Rs. 3,000.',
+            'Cash Prize of Rs. 5,000.',
         ],
         prizeInfo : [
             'Assured Interview for intern position at YourLab.in',
@@ -13,7 +13,7 @@ const Prizes = [
     {
         title : "Runner-up Team",
         cashPrize : [
-            'Cash Prize of Rs. 2,000.',
+            'Cash Prize of Rs. 3,000.',
         ],
         prizeInfo : [
             'Assured Interview for intern position at YourLab.in',
@@ -23,7 +23,7 @@ const Prizes = [
     {
         title : "Second Runner-up Team",
         cashPrize : [
-            'Cash Prize of Rs. 1,000.',
+            'Cash Prize of Rs. 1,500.',
         ],
         prizeInfo : [
             'Assured Interview for intern position at YourLab.in',
@@ -33,7 +33,7 @@ const Prizes = [
     {
         title : "Best Team of II Year",
         cashPrize : [
-            'Cash Prize of Rs. 1,000.',
+            'Cash Prize of Rs. 3,000.',
         ],
         prizeInfo : [
             'Direct Entry to Interview Round of ADSC Core Team',
